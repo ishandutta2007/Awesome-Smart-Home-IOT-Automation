@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=iiscord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Home-IOT-Automation?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Home-IOT-Automation?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Smart-Home-IOT-Automation?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -65,9 +65,9 @@ The table below catalogs major hosted and SaaS smart home ecosystems, sorted in 
 
 ## 🔓 Open-Source GitHub Projects
 
-All open-source repositories below are sorted in **descending order by GitHub star count**. Each project includes a custom badge linking directly to its stargazer community.
+All open-source repositories below are sorted in **descending order by GitHub Stars_Count**. Each project includes a custom badge linking directly to its stargazer community.
 
-| Rank 🏆 | Project & Repository 📦 | GitHub Stars ⭐ | Architecture & Core Capabilities ⚙️ |
+| Rank 🏆 | Project & Repository 📦 | GitHub_Stars ⭐ | Architecture & Core Capabilities ⚙️ |
 | :---: | :--- | :---: | :--- |
 | 1 | **[Home Assistant](https://github.com/home-assistant/core)** | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Flagship Python-based, local-first smart home platform with 3,000+ integrations, native Matter/Thread/Zigbee coordinators, and local voice pipelines. |
 | 2 | **[Frigate NVR](https://github.com/blakeblackshear/frigate)** | [![Stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=social&color=white)](https://github.com/blakeblackshear/frigate/stargazers) | Open-source local AI NVR using OpenCV and Google Coral / TensorRT to detect people, vehicles, and objects for real-time MQTT automations. |
